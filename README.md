@@ -1,15 +1,15 @@
 # Nae-Nae-Case
-**_What is this_**
+### **_What is this_**
 
 This project is a _customizable_ small form factor cardboard PC case
 
-**_Why'd you make this_**
+### **_Why'd you make this_**
 
 I wanted to make my own cardboard case but couldn't really find any info on how to design or build one
 
 I made this to make it easier for others to do the same thing, hopefully you can find some useful info here
 
-**_Specs and supported hardware_**
+### **_Specs and supported hardware_**
 
 - 200x200x300mm 12.0L
 - ITX motherboard
@@ -19,11 +19,11 @@ I made this to make it easier for others to do the same thing, hopefully you can
 - 2x 3.5" HDD
 - 2x 2.5" SSD
   
-**_I want to build this case_**
+### **_I want to build this case_**
 
 Please download this repository and follow instructions.txt
   
-**_I want to customize this case_**
+### **_I want to customize this case_**
 
 How to edit this project to suit your own needs
 
