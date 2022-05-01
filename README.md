@@ -21,6 +21,7 @@ I made this to make it easier for others to do the same thing, hopefully you can
 - up to fullsize atx PSU 140x150x86mm; could probably fit up to 150mm long, maybe 160mm without SSD
 - 2x 3.5" HDD
 - 2x 2.5" SSD
+- anything you want! design your own!
   
 ### **_I want to build this case_**
 
