@@ -1,4 +1,7 @@
 # Nae-Nae-Case
+<p align="left">
+  <a href="https://github.com/75h7/Nae-Nae-Case/blob/main/cover%20photo%20dims.jpg"><img src="https://github.com/75h7/Nae-Nae-Case/blob/main/cover%20photo%20dims.jpg" alt="the case" width="800" /></a>
+
 ### **_What is this_**
 
 This project is a _customizable_ small form factor cardboard PC case
